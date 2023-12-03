@@ -1,5 +1,5 @@
 # wcloud
-
+This word cloud generator has been designed specifically to process sentences in Portuguese. The analysis and generation of the word cloud are optimized for the Portuguese language, taking into account its linguistic nuances. Please make sure to provide texts in the Portuguese language for the best results.
 ## Project setup
 ```
 npm install
